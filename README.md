@@ -1,3 +1,9 @@
+<div align="center">
+	<img src="https://img.sanishtech.com/u/0c272f8fa2408f778350bfd9b6f24350.jpg" alt="Learning from this video" style="max-width: 100%; border-radius: 15px; box-shadow: 0 2px 12px #0002;" />
+	<br/>
+</div>
+
+
 # 🔥 JavaScript, Everything about Everything Syllabus – Phase 1: Fundamentals
 
 ---
